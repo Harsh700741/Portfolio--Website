@@ -1,6 +1,3 @@
-Here's the updated `README.md` file with a placeholder for the portfolio website link:
-
-```markdown
 # Portfolio Website
 
 This repository contains the code for my personal portfolio website, showcasing my projects, skills, and professional experience.
